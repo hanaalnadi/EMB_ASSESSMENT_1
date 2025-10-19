@@ -11,7 +11,8 @@ It demonstrates register-level C programming using direct access to MCU register
 [submission_repo](https://github.com/hanaalnadi/EMB_ASSESSMENT_1)
 
 **Local Root Directory**
-[link_to_local_root_directory](./code/)
+[(https://github.com/hanaalnadi/EMB_ASSESSMENT_1/tree/main)](hanaalnadi
+/ EMB_ASSESSMENT_1)
 
 ## 3. Test Cases
 
@@ -40,3 +41,4 @@ Test Cases are developed in **[Robot Framework](https://github.com/hanaalnadi/EM
 ## 6. Design
 [design_document](EMB_ASSESSMENT_1/EMB_ASSESSMENT_1/design
 /project_design_tpl.md)
+
