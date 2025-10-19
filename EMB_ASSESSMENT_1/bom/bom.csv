@@ -1,0 +1,9 @@
+Part,Description,Quantity,Manufacturer,Part Number,Price (EGP),Total Price (EGP)
+Arduino Uno,"Arduino Uno",1,Arduino,"A000066",450,450
+LED,"Red LED, 5mm",1,generic,,0.75,0.75
+Resistor,"220 Ohm, 0.25W",1,generic,,0.25,0.25
+Switch,"Tactile Push Button Switch",1,generic,,0.75,0.75
+Jumper Wires,"Male-to-Male",Several,generic,,1,3
+BreadBoard,830 Tie Point,,generic,,35,35
+Arduino cable,USB cable A male/B female type,,generic,,50,50
+,,,,,,539.75
